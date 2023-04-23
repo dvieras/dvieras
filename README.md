@@ -6,9 +6,8 @@
   </h1>
   
   <p align="center">
-    Sou estudante de análise e desenvolvimento de sistemas, foco meus estudos para o Back End. 
+    Sou estudante de análise e desenvolvimento de sistemas, com foco dos meus estudos para o desenvolvimento Back End. 
   </p>
-  
   
 </div>
 
@@ -34,7 +33,6 @@
   <a href="https://www.linkedin.com/in/david-emrich-928661137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="david.emrich.v@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- 
 </div>
 
 <div align="center">
